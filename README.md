@@ -7,7 +7,7 @@
 My name is Andy Kwak and I'm a software developer/FrontEnd engineer. I'm from South Korea, living in Seoul and currently working at Breezm.
 
 
-<h2> My tech stack 📚 </h2>
+<h2>:hammer_and_wrench: Technologies and Tools I use : </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=plastic&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=plastic&logo=css3)
