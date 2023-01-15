@@ -23,4 +23,4 @@ My name is Andy Kwak and I'm a software developer/FrontEnd engineer. I'm from So
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwakky1&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kwakky1&show_icons=true&theme=react)
